@@ -1,0 +1,10 @@
+if we want to use Radix UI, we can use it using two ways:
+    1) Radix Themes (minimal configuration)
+    2) Radix Primitives (the logical part is there,
+but we need to setup the styling part without conflicting
+with their styling just like in case of bootstrap and tailwind.)
+
+
+
+====================================================
+
