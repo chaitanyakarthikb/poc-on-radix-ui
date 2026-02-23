@@ -13,7 +13,7 @@ function App() {
   const items = [
     { name: 'button', Component: <ButtonComp /> },
     { name: 'dialog', Component: <DialogDemo/> },
-    // { name: 'dropdown', Component: <Dropdown/> },
+    { name: 'dropdown', Component: <Dropdown/> },
     // { name: 'tabs', Component: <TabsComponent/> },
     // { name: 'form', Component: <Form/> },
     // { name: 'roast', Component: <Roast/> },
