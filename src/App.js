@@ -7,11 +7,12 @@ import Dropdown from './components/Dropdown/index.js';
 // import ToastComponent from './components/Toast/index.js';
 import ButtonComp from './components/Button/index.js';
 import DialogComponent from './components/Dialog/index.js';
+import DialogDemo from './components/Dialog/index.js';
 
 function App() {
   const items = [
     { name: 'button', Component: <ButtonComp /> },
-    // { name: 'dialog', Component: <DialogComponent/> },
+    { name: 'dialog', Component: <DialogDemo/> },
     // { name: 'dropdown', Component: <Dropdown/> },
     // { name: 'tabs', Component: <TabsComponent/> },
     // { name: 'form', Component: <Form/> },
